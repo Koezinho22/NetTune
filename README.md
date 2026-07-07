@@ -1,3 +1,11 @@
+
+# Network Optimizer
+
+network optimizer is a optimizer that optimizes your networks settings and currently in beta testing, you can run it through command prompt
+
+
+
+
 ## Installation
 
 ### Requirements
